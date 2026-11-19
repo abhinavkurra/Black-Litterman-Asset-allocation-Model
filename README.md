@@ -73,7 +73,7 @@ The realised return is well below the 22.5% posterior expectation. That gap is e
 | | |
 |---|---|
 | ![Prior vs posterior](BL_Outputs/bl_1_prior_vs_posterior.png) | ![Weights](BL_Outputs/bl_2_weight_comparison.png) |
-| ![Allocation](BL_Outputs/bl_3_allocation_donut.png) | ![Cumulative performance](BL_Outputs/bl_5_cumulative_performance.png) |
+| ![Allocation](BL_Outputs/Allocation_chart.png) | ![Cumulative performance](BL_Outputs/Cumulative_performance.png) |
 
 Interactive Plotly charts are in `BL_Outputs/`: `bl_4_efficient_frontier.html` and `bl_6_drawdown.html`. GitHub does not render HTML, so download them and open them in a browser.
 
