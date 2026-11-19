@@ -80,8 +80,8 @@ Interactive Plotly charts are in `BL_Outputs/`: `bl_4_efficient_frontier.html` a
 ## Quick start
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone <https://github.com/abhinavkurra/Black-Litterman-Asset-allocation-Model>
+cd <Black-Litterman-Asset-allocation-Model>
 pip install numpy pandas scipy matplotlib seaborn plotly yfinance
 python main.py
 ```
